@@ -47,6 +47,7 @@ a:hover, a:active {
 }
 
 .container {
+	width: 960px;
 	background-color: white;
 	overflow: hidden; 
 	margin-left: 300px;
